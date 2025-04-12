@@ -1,0 +1,3 @@
+Of the DS records found: 960/1058 utilized SHA2.
+
+Of the 707 distinct domains measured: 296/707 only used NSEC3, 411/707 only used NSEC, 0/707 used both.
